@@ -1,0 +1,7 @@
+id,name,dept,location,salary
+101,vazeed,AIA,BLR,12000
+102,siva,IOA,CHE,12500
+103,basheer,AIA,MUM,13000
+104,ravi,BU,DEL,24000
+105,suhail,CIO,GUR,23000
+102,siva,IOA,CHE,12500

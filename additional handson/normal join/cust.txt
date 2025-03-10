@@ -1,0 +1,4 @@
+cust_id,cust_name,email
+101,vazeed,vazeed@gmail.com
+102,siva,siva@gmail.com
+103,basheer,basheer@gmail.com
