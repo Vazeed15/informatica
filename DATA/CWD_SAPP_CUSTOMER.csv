@@ -1,0 +1,21 @@
+FIRST_NAME,MIDDLE_NAME,LAST_NAME,SSN,Credit_cardN0,APT_NO,STREET_NAME,CUST_CITY,CUST_STATE,CUST_COUNTRY,CUST_ZIP,CUST_PHONE,CUST_EMAIL
+John,Andrew,Smith,123456789,4.53275E+15,12,Elm Street,New York,NY,USA,1000100,2125556789,john.smith@email.com
+Mary,Beth,Johnson,234567890,5.34728E+15,45,Maple Avenue,Los Angeles,CA,USA,9000123,3105551234,mary.johnson@email.com
+Robert,Charles,Brown,345678901,6.78912E+15,78,Pine Road,Chicago,IL,USA,6060145,3125554321,robert.brown@email.com
+Linda,Diane,Williams,456789012,7.89135E+15,23,Oak Drive,Houston,TX,USA,7700167,7135555678,linda.williams@email.com
+Michael,Edward,Jones,567890123,8.90146E+15,56,Cedar Lane,Phoenix,AZ,USA,8500190,6025559876,michael.jones@email.com
+Sarah,Felicia,Miller,678901234,9.01257E+15,89,Birch Street,Philadelphia,PA,USA,1910123,2155552345,sarah.miller@email.com
+William,George,Davis,789012345,1.23468E+15,34,Spruce Avenue,San Antonio,TX,USA,7820145,2105556789,william.davis@email.com
+Jessica,Hannah,Garcia,890123456,2.34579E+15,67,Willow Road,San Diego,CA,USA,9210167,6195553456,jessica.garcia@email.com
+David,Isaac,Rodriguez,901234567,3.45689E+15,12,Poplar Lane,Dallas,TX,USA,7520190,2145554321,david.rodriguez@email.com
+Emily,Jane,Martinez,123987654,4.5679E+15,45,Ash Drive,San Jose,CA,USA,9510123,4085551234,emily.martinez@email.com
+James,Kevin,Hernandez,234876543,5.67801E+15,78,Fir Street,Austin,TX,USA,7330145,5125556789,james.hernandez@email.com
+Sophia,Lauren,Lopez,345765432,6.78912E+15,23,Redwood Ave,Jacksonville,FL,USA,3209967,9045554321,sophia.lopez@email.com
+Daniel,Matthew,Gonzalez,456654321,7.89123E+15,56,Magnolia Lane,Columbus,OH,USA,4320190,6145555678,daniel.gonzalez@email.com
+Olivia,Natalie,Wilson,567543210,8.90135E+15,89,Cypress Road,Fort Worth,TX,USA,7610123,8175559876,olivia.wilson@email.com
+Matthew,Oliver,Anderson,678432109,9.01246E+15,34,Sycamore Blvd,Charlotte,NC,USA,2820145,7045552345,matthew.anderson@email.com
+Ava,Penelope,Thomas,789321098,1.23357E+15,67,Chestnut Drive,San Francisco,CA,USA,9410167,4155556789,ava.thomas@email.com
+Ethan,Quentin,Taylor,890210987,2.34468E+15,12,Hickory Lane,Indianapolis,IN,USA,4620190,3175553456,ethan.taylor@email.com
+Isabella,Rachel,Moore,901109876,3.45579E+15,45,Beech Street,Seattle,WA,USA,9810123,2065554321,isabella.moore@email.com
+Alexander,Samuel,Martin,123098765,4.56689E+15,78,Dogwood Ave,Denver,CO,USA,8020145,3035551234,alexander.martin@email.com
+Mia,Teresa,White,234987654,5.6779E+15,23,Palm Drive,Nashville,TN,USA,3720190,6155556789,mia.white@email.com
