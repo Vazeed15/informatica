@@ -1,0 +1,9 @@
+Rajesh,Developer,chennai,90000
+Rajesh,Developer,chennai,90000
+kannan,Tester,mumbai,70000
+Suresh,Developer,mumbai,15000
+Ram,Manager,chennai,70000
+Arul,Manager,Mumbai,70000
+Arul,Developer,chennai,4000
+vinoth,Tester,mumbai,1500
+paul,Manager,chennai,20000

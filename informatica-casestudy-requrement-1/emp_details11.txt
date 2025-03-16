@@ -1,0 +1,8 @@
+Rajesh,Developer,chennai,90000
+kumar,Developer,chennai,50000
+naveen,Tester,hyderabad,20000
+krishna,Manager,mumabi,100000
+Ram,Manager,chennai,70000
+Ram,Developer,Chennai,40000
+Raj,Developer,pune,1000
+paul,Manager,chennai,20000
