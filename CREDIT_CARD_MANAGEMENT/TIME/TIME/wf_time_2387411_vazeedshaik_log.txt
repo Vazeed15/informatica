@@ -1,0 +1,26 @@
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_36435 : Starting execution of workflow [wf_time_2387411_vazeedshaik] in folder [ccmr(personal)] last saved by user [Administrator].
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_44206 : Workflow wf_time_2387411_vazeedshaik started with run id [179], run instance name [], run type [Concurrent Run Disabled].
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_44195 : Workflow [wf_time_2387411_vazeedshaik] service level [SLPriority:5,SLDispatchWaitTime:1800].
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_44253 : Workflow started. Clients will be notified
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_36330 : Start task instance [Start]: Execution started.
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_36318 : Start task instance [Start]: Execution succeeded.
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_36505 : Link [Start --> s_m_2387411_vazeedshaik_time]: empty expression string, evaluated to TRUE.
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_36388 : Session task instance [s_m_2387411_vazeedshaik_time] is waiting to be started.
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_36682 : Session task instance [s_m_2387411_vazeedshaik_time]: started a process with pid [12448] on node [node01].
+2025-03-15 15:51:55 : INFO : (5820 | 10364) : (IS | IS) : node01 : LM_36330 : Session task instance [s_m_2387411_vazeedshaik_time]: Execution started.
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6793 Fetching initialization properties from the Integration Service. : (Sat Mar 15 15:51:55 2025)]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [DISP_20305 The [Preparer] DTM with process id [12448] is running on node [node01].
+ : (Sat Mar 15 15:51:55 2025)]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [PETL_24036 Beginning the prepare phase for the session.]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6721 Started [Connect to Repository].]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6722 Finished [Connect to Repository].  It took [0.11053] seconds.]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6794 Connected to repository [REP] in domain [Domain] as user [Administrator] in security domain [Native].]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6721 Started [Fetch Session from Repository].]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6722 Finished [Fetch Session from Repository].  It took [0.022001] seconds.]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TT_11094 The Lookup transformation [LKPTRANS] requires that a string or binary lookup port and an input port in any lookup condition have the same length. Since lookup port [TIMEID] had a length of [8] and input port [Formatted_Time_Key] had a length of [11], the larger length for both ports is used.]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6721 Started [Partition Group Formation].]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6722 Finished [Partition Group Formation].  It took [0.0230031] seconds.]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [PETL_24037 Finished the prepare phase for the session.]
+2025-03-15 15:51:56 : INFO : (5820 | 2192) : (IS | IS) : node01 : LM_36488 : Session task instance [s_m_2387411_vazeedshaik_time] : [TM_6792 Notifying the Integration Service that the prepare phase has been completed. : (Sat Mar 15 15:51:56 2025)]
+2025-03-15 15:51:57 : INFO : (5820 | 7940) : (IS | IS) : node01 : LM_36318 : Session task instance [s_m_2387411_vazeedshaik_time]: Execution succeeded.
+2025-03-15 15:51:57 : INFO : (5820 | 8456) : (IS | IS) : node01 : LM_36318 : Workflow [wf_time_2387411_vazeedshaik]: Execution succeeded.
