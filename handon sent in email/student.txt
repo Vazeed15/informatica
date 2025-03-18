@@ -1,0 +1,8 @@
+student_id,student_name,subject,marks
+101,sai,english,79
+102,basheer,chemistry,80
+103,suhail,physics,79
+104,siva,maths,80
+105,vazeed,social,90
+106,kishore,science,43
+107,ravi,maths,37

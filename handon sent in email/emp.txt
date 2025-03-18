@@ -1,0 +1,9 @@
+emp_id,emp_name,salary,dept_id
+101,ravi,32000,901
+102,vazeed,99000,902
+103,siva,65000,903
+104,basheer,98000,904
+101,pammi,32000,901
+102,shaik,99000,902
+103,siva,65000,903
+104,shaik,98000,904
